@@ -784,6 +784,7 @@ span{
     }
 
     .education{
+        height: 130vh;
         padding: 10rem 4% 5rem 5%;
     }
 
